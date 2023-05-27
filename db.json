@@ -1,0 +1,29 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Post one",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis rutrum leo, id bibendum felis. Proin malesuada imperdiet libero ut commodo. Nam tempor lacus eget fermentum mollis. Sed id erat tellus. Quisque non ipsum sapien. Suspendisse tincidunt bibendum leo eu rutrum. Nulla quis hendrerit nisi. Suspendisse pretium euismod dapibus.",
+      "publishedAt": "Fri May 26 2023 18:12:51 GMT+0300 (Moscow Standard Time)"
+    },
+    {
+      "id": 2,
+      "title": "Post two",
+      "body": "Fusce viverra tristique ante, sit amet interdum elit tincidunt a. Donec maximus, diam tincidunt feugiat dictum, diam mi porta quam, eu eleifend dolor velit sit amet magna. Sed eget ex bibendum, vehicula urna eu, iaculis justo. Donec pharetra mi ut elit scelerisque suscipit. Sed at eros risus. Proin vulputate aliquet felis ac malesuada. Cras rutrum, felis eget aliquam consectetur, ante purus iaculis arcu, ut facilisis tellus ipsum in nibh. Suspendisse mi mi, laoreet a urna volutpat, condimentum rhoncus lorem. Vivamus id est tempus, facilisis nunc elementum, congue massa.",
+      "publishedAt": "Fri May 23 2023 14:14:08 GMT+0300 (Moscow Standard Time)"
+    },
+    {
+      "id": 3,
+      "title": "Post three",
+      "body": "Integer id dolor sit amet nulla egestas efficitur mattis quis ipsum. Suspendisse ut pretium libero. Nulla sit amet lorem sodales, vehicula tellus vel, efficitur mi. Proin interdum velit vitae faucibus bibendum. Proin congue massa vitae urna elementum, eu varius purus viverra. Phasellus rutrum nulla nec mauris ultricies, in tristique purus sagittis. Donec nibh nisl, venenatis venenatis turpis eu, aliquam faucibus justo. Ut pharetra consectetur est, non eleifend lacus malesuada tincidunt. Nunc lacinia eleifend felis, id efficitur arcu pellentesque quis.",
+      "publishedAt": "Fri May 20 2023 12:35:08 GMT+0300 (Moscow Standard Time)"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    }
+  ]
+}
